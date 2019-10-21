@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_auth">AuthActivity</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="posts">Posts</string>
+</resources>
